@@ -1,0 +1,7 @@
+Prerequisites
+	Web server with PHP support (e.g. XAMPP)
+	Python 3.0 or above
+
+Instructions
+	Place the files in its root directory
+	Open index.php using a web browser
